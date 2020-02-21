@@ -108,7 +108,7 @@ const tmplHeader = `<!DOCTYPE html>
     }
 	#save-success {
 		color: grey;
-		animation: 1.5s ease-in forwards fade-out;
+		animation: 1.5s ease-in 1s forwards fade-out;
 	}
 	#save-error {
 		color: red;

@@ -1,4 +1,4 @@
-module github.com/keybase/managed-bots
+module github.com/malware-unicorn/managed-bots
 
 go 1.13
 

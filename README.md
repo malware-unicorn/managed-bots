@@ -1,6 +1,6 @@
 # Keybase Managed Bots
 
-[![Travis CI](https://travis-ci.com/keybase/managed-bots.svg?branch=master)](https://travis-ci.com/keybase/managed-bots)
+[![Travis CI](https://travis-ci.com/malware-unicorn/managed-bots.svg?branch=master)](https://travis-ci.com/malware-unicorn/managed-bots)
 
 Home of bots managed by [Keybase](https://keybase.io). All of the managed bots
 within this repo can be run independently, each directory contains a readme to

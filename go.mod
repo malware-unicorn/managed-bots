@@ -12,10 +12,10 @@ require (
 	github.com/gorilla/mux v1.7.3
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/keybase/go-codec v0.0.0-20180928230036-164397562123
-        github.com/malware-unicorn/go-keybase-chat-bot v0.0.0-20200221225809-f14ebe078ce8 // indirect
 	github.com/kr/pretty v0.0.0-20150520163514-e6ac2fc51e89 // indirect
 	github.com/kr/text v0.0.0-20150520163712-e373e137fafd // indirect
 	github.com/mailru/easyjson v0.7.0 // indirect
+	github.com/malware-unicorn/go-keybase-chat-bot v0.0.0-20200222003845-ff7b677a43db // indirect
 	github.com/olivere/elastic v6.2.27+incompatible
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/stathat/go v1.0.0

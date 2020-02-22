@@ -65,6 +65,8 @@ github.com/malware-unicorn/go-keybase-chat-bot v0.0.0-20200207200343-9aca502dc88
 github.com/malware-unicorn/go-keybase-chat-bot v0.0.0-20200221225809-f14ebe078ce8/go.mod h1:yWLMRlYkN/+1NMbkfq2L+mzgzO64BjAyxxmALEuEIP4=
 github.com/malware-unicorn/go-keybase-chat-bot v0.0.0-20200222003845-ff7b677a43db h1:uvK/nWrEkizG3OhrHeHx7ChuZwicRDnHJhGqbTRn0Ko=
 github.com/malware-unicorn/go-keybase-chat-bot v0.0.0-20200222003845-ff7b677a43db/go.mod h1:yWLMRlYkN/+1NMbkfq2L+mzgzO64BjAyxxmALEuEIP4=
+github.com/malware-unicorn/go-keybase-chat-bot v0.0.0-20200222065726-cec8effdf0cd h1:wwFVOdU2/29AUHI/byKZ49wvUSLTqmYwi+1WwhnGSJA=
+github.com/malware-unicorn/go-keybase-chat-bot v0.0.0-20200222065726-cec8effdf0cd/go.mod h1:yWLMRlYkN/+1NMbkfq2L+mzgzO64BjAyxxmALEuEIP4=
 github.com/olivere/elastic v6.2.27+incompatible h1:c57kY8PF/J6Iz2ATxHQkWFNkYyKDlEZr6hl/O5ZFNvQ=
 github.com/olivere/elastic v6.2.27+incompatible/go.mod h1:J+q1zQJTgAz9woqsbVRqGeB5G1iqDKVBWLNSYW8yfJ8=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=

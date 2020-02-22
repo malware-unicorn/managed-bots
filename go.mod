@@ -15,7 +15,7 @@ require (
 	github.com/kr/pretty v0.0.0-20150520163514-e6ac2fc51e89 // indirect
 	github.com/kr/text v0.0.0-20150520163712-e373e137fafd // indirect
 	github.com/mailru/easyjson v0.7.0 // indirect
-	github.com/malware-unicorn/go-keybase-chat-bot v0.0.0-20200222003845-ff7b677a43db // indirect
+	github.com/malware-unicorn/go-keybase-chat-bot v0.0.0-20200222065726-cec8effdf0cd // indirect
 	github.com/olivere/elastic v6.2.27+incompatible
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/stathat/go v1.0.0

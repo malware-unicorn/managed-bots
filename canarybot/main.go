@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/keybase/go-keybase-chat-bot/kbchat"
-	"github.com/keybase/go-keybase-chat-bot/kbchat/types/chat1"
+	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat"
+	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat/types/chat1"
 	"github.com/keybase/managed-bots/base"
 	"github.com/keybase/managed-bots/canarybot/canarybot"
 	"golang.org/x/sync/errgroup"

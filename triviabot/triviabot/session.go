@@ -10,9 +10,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/keybase/go-keybase-chat-bot/kbchat"
-	"github.com/keybase/go-keybase-chat-bot/kbchat/types/chat1"
-	"github.com/keybase/go-keybase-chat-bot/kbchat/types/keybase1"
+	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat"
+	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat/types/chat1"
+	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat/types/keybase1"
 	"github.com/keybase/managed-bots/base"
 )
 

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/keybase/go-keybase-chat-bot/kbchat/types/chat1"
+	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat/types/chat1"
 
 	"google.golang.org/api/calendar/v3"
 )

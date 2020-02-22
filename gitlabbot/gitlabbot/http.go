@@ -9,7 +9,7 @@ import (
 	"github.com/keybase/managed-bots/base/git"
 	"github.com/xanzy/go-gitlab"
 
-	"github.com/keybase/go-keybase-chat-bot/kbchat"
+	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat"
 	"github.com/keybase/managed-bots/base"
 )
 

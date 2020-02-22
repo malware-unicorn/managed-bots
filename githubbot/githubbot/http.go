@@ -8,13 +8,13 @@ import (
 
 	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat/types/chat1"
 
-	"github.com/keybase/managed-bots/base/git"
+	"github.com/malware-unicorn/managed-bots/base/git"
 
 	"github.com/bradleyfalzon/ghinstallation"
 
 	"github.com/google/go-github/v28/github"
 	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat"
-	"github.com/keybase/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/base"
 	"golang.org/x/oauth2"
 )
 

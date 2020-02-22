@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/keybase/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/base"
 )
 
 type DB struct {

@@ -13,7 +13,7 @@ import (
 	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat"
 	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat/types/chat1"
 	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat/types/keybase1"
-	"github.com/keybase/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/base"
 )
 
 var eligibleCategories = []int{9, 10, 11, 12, 14, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27}

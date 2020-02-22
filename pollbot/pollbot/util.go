@@ -5,7 +5,7 @@ import (
 	"math"
 	"strings"
 
-	"github.com/keybase/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/base"
 )
 
 func formatTally(tally Tally, numChoices int) (res string) {

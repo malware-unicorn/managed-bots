@@ -1,7 +1,7 @@
 package meetbot
 
 import (
-	"github.com/keybase/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/base"
 )
 
 var images = map[string]string{

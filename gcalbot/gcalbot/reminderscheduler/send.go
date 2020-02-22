@@ -3,7 +3,7 @@ package reminderscheduler
 import (
 	"time"
 
-	"github.com/keybase/managed-bots/gcalbot/gcalbot"
+	"github.com/malware-unicorn/managed-bots/gcalbot/gcalbot"
 )
 
 func (r *ReminderScheduler) sendReminderLoop(shutdownCh chan struct{}) error {

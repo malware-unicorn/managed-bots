@@ -1,7 +1,7 @@
 package pollbot
 
 import (
-	"github.com/keybase/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/base"
 )
 
 type Vote struct {

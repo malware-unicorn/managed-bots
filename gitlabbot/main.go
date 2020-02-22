@@ -8,13 +8,13 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/keybase/managed-bots/gitlabbot/gitlabbot"
+	"github.com/malware-unicorn/managed-bots/gitlabbot/gitlabbot"
 
 	_ "github.com/go-sql-driver/mysql"
 
 	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat"
 	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat/types/chat1"
-	"github.com/keybase/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/base"
 	"golang.org/x/sync/errgroup"
 )
 

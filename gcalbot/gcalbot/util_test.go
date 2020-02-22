@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/keybase/managed-bots/gcalbot/gcalbot"
+	"github.com/malware-unicorn/managed-bots/gcalbot/gcalbot"
 )
 
 func TestFormatTimeRange(t *testing.T) {

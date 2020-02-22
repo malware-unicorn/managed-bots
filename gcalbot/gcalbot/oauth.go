@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/keybase/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/base"
 
 	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat/types/chat1"
 	"golang.org/x/oauth2"

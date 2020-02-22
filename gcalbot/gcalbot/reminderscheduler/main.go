@@ -3,8 +3,8 @@ package reminderscheduler
 import (
 	"sync"
 
-	"github.com/keybase/managed-bots/base"
-	"github.com/keybase/managed-bots/gcalbot/gcalbot"
+	"github.com/malware-unicorn/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/gcalbot/gcalbot"
 	"golang.org/x/oauth2"
 	"golang.org/x/sync/errgroup"
 )

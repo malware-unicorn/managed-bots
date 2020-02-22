@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/oauth2"
 
-	"github.com/keybase/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/base"
 
 	"google.golang.org/api/calendar/v3"
 	"google.golang.org/api/googleapi"

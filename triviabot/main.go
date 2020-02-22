@@ -10,8 +10,8 @@ import (
 
 	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat"
 	"github.com/malware-unicorn/go-keybase-chat-bot/kbchat/types/chat1"
-	"github.com/keybase/managed-bots/base"
-	"github.com/keybase/managed-bots/triviabot/triviabot"
+	"github.com/malware-unicorn/managed-bots/base"
+	"github.com/malware-unicorn/managed-bots/triviabot/triviabot"
 	"golang.org/x/sync/errgroup"
 )
 

@@ -5,7 +5,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/keybase/managed-bots/gcalbot/gcalbot"
+	"github.com/malware-unicorn/managed-bots/gcalbot/gcalbot"
 	"google.golang.org/api/calendar/v3"
 )
 

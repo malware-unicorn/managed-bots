@@ -57,8 +57,8 @@ github.com/kr/text v0.0.0-20150520163712-e373e137fafd h1:ohpc+F5FseC/PPrR1wz2WcZ
 github.com/kr/text v0.0.0-20150520163712-e373e137fafd/go.mod h1:sjUstKUATFIcff4qlB53Kml0wQPtJVc/3fWrmuUmcfA=
 github.com/mailru/easyjson v0.7.0 h1:aizVhC/NAAcKWb+5QsU1iNOZb4Yws5UO2I+aIprQITM=
 github.com/mailru/easyjson v0.7.0/go.mod h1:KAzv3t3aY1NaHWoQz1+4F1ccyAH66Jk7yos7ldAVICs=
-github.com/malware-unicorn/go-keybase-chat-bot v1.0.4 h1:/Ijr7NSzJxxvV9RZthTytZ0u1sKt1/+5nQbsLtn2lqI=
-github.com/malware-unicorn/go-keybase-chat-bot v1.0.4/go.mod h1:Th4HpkqoD0ZaBtlPHReNllnKlO1J/fwc+lmQULTTLRE=
+github.com/malware-unicorn/go-keybase-chat-bot v1.0.5 h1:gDg4FZFQVTxKTM2TmznbKN+Y1K1cYb+cQai1GOGAxr8=
+github.com/malware-unicorn/go-keybase-chat-bot v1.0.5/go.mod h1:Th4HpkqoD0ZaBtlPHReNllnKlO1J/fwc+lmQULTTLRE=
 github.com/olivere/elastic v6.2.27+incompatible h1:c57kY8PF/J6Iz2ATxHQkWFNkYyKDlEZr6hl/O5ZFNvQ=
 github.com/olivere/elastic v6.2.27+incompatible/go.mod h1:J+q1zQJTgAz9woqsbVRqGeB5G1iqDKVBWLNSYW8yfJ8=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
